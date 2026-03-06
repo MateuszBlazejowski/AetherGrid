@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "We_have_doom_at_home": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AetherGrid", "AetherGrid.csproj", "{AEB137A6-C759-4639-A6F3-6AE2A6B3A70A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB137A6-C759-4639-A6F3-6AE2A6B3A70A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB137A6-C759-4639-A6F3-6AE2A6B3A70A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB137A6-C759-4639-A6F3-6AE2A6B3A70A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB137A6-C759-4639-A6F3-6AE2A6B3A70A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4E86F3E-FDAC-4E5F-B7D2-63DC652AC740}
+	EndGlobalSection
+EndGlobal
