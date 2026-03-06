@@ -4,7 +4,7 @@
 
 I am particulary proud of this game not because of the display style, but the whole system inside utilizing various Design patterns, all of which are explained below.
 
-<img src="exampleImages/MazeScreen.png" alt="AetherGrid Gameplay Screenshot" />
+<img src="exampleImages/ServerScreen.png" alt="AetherGrid Gameplay Screenshot" />
 
 ##  Game Description
 
